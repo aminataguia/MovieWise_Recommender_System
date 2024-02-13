@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Documents/GitHub/Brief 12/MovieWise_Recommender_System/mlruns/291067862692002196/d65c8268355b47298d9dfdd6dd1931ce/artifacts
+end_time: 1707838308894
+entry_point_name: ''
+experiment_id: '291067862692002196'
+lifecycle_stage: active
+run_id: d65c8268355b47298d9dfdd6dd1931ce
+run_name: bouncy-bird-629
+run_uuid: d65c8268355b47298d9dfdd6dd1931ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707838308369
+status: 3
+tags: []
+user_id: Utilisateur

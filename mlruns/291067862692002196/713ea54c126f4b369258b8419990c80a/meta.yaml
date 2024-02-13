@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Documents/GitHub/Brief 12/MovieWise_Recommender_System/mlruns/291067862692002196/713ea54c126f4b369258b8419990c80a/artifacts
+end_time: 1707838170260
+entry_point_name: ''
+experiment_id: '291067862692002196'
+lifecycle_stage: active
+run_id: 713ea54c126f4b369258b8419990c80a
+run_name: whimsical-wolf-2
+run_uuid: 713ea54c126f4b369258b8419990c80a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707838169707
+status: 3
+tags: []
+user_id: Utilisateur

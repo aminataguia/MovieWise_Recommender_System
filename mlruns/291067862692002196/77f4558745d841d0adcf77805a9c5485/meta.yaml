@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Documents/GitHub/Brief 12/MovieWise_Recommender_System/mlruns/291067862692002196/77f4558745d841d0adcf77805a9c5485/artifacts
+end_time: 1707837930512
+entry_point_name: ''
+experiment_id: '291067862692002196'
+lifecycle_stage: active
+run_id: 77f4558745d841d0adcf77805a9c5485
+run_name: inquisitive-lark-472
+run_uuid: 77f4558745d841d0adcf77805a9c5485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707837929848
+status: 3
+tags: []
+user_id: Utilisateur

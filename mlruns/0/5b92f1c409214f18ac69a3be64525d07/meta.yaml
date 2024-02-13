@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Utilisateur/Documents/GitHub/Brief%2012/MovieWise_Recommender_System/mlruns/0/5b92f1c409214f18ac69a3be64525d07/artifacts
+end_time: 1707822872627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b92f1c409214f18ac69a3be64525d07
+run_name: marvelous-ape-953
+run_uuid: 5b92f1c409214f18ac69a3be64525d07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707822872483
+status: 4
+tags: []
+user_id: Utilisateur
