@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Utilisateur/Documents/GitHub/Brief12/MovieWise_Recommender_System/your_mlflow_uri/342564443274030358/f0e7fe3b6f0e4235a1a3a2b9094efc96/artifacts
+end_time: 1707840000918
+entry_point_name: ''
+experiment_id: '342564443274030358'
+lifecycle_stage: active
+run_id: f0e7fe3b6f0e4235a1a3a2b9094efc96
+run_name: suave-mule-657
+run_uuid: f0e7fe3b6f0e4235a1a3a2b9094efc96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707839999477
+status: 3
+tags: []
+user_id: Utilisateur

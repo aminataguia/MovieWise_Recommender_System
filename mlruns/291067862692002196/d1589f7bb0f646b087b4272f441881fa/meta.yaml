@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Documents/GitHub/Brief 12/MovieWise_Recommender_System/mlruns/291067862692002196/d1589f7bb0f646b087b4272f441881fa/artifacts
+end_time: 1707907425186
+entry_point_name: ''
+experiment_id: '291067862692002196'
+lifecycle_stage: active
+run_id: d1589f7bb0f646b087b4272f441881fa
+run_name: thoughtful-quail-544
+run_uuid: d1589f7bb0f646b087b4272f441881fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707907424518
+status: 3
+tags: []
+user_id: Utilisateur

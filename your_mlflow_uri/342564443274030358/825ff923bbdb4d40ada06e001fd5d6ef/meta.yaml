@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Utilisateur/Documents/GitHub/Brief12/MovieWise_Recommender_System/your_mlflow_uri/342564443274030358/825ff923bbdb4d40ada06e001fd5d6ef/artifacts
+end_time: 1707840021225
+entry_point_name: ''
+experiment_id: '342564443274030358'
+lifecycle_stage: active
+run_id: 825ff923bbdb4d40ada06e001fd5d6ef
+run_name: learned-fawn-153
+run_uuid: 825ff923bbdb4d40ada06e001fd5d6ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707840020589
+status: 3
+tags: []
+user_id: Utilisateur

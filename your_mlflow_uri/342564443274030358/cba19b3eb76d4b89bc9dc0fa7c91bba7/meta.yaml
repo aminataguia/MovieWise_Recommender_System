@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Utilisateur/Documents/GitHub/Brief12/MovieWise_Recommender_System/your_mlflow_uri/342564443274030358/cba19b3eb76d4b89bc9dc0fa7c91bba7/artifacts
+end_time: 1707839608860
+entry_point_name: ''
+experiment_id: '342564443274030358'
+lifecycle_stage: active
+run_id: cba19b3eb76d4b89bc9dc0fa7c91bba7
+run_name: clean-mule-723
+run_uuid: cba19b3eb76d4b89bc9dc0fa7c91bba7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707839607397
+status: 3
+tags: []
+user_id: Utilisateur

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Documents/GitHub/Brief 12/MovieWise_Recommender_System/mlruns/291067862692002196/fd15c37514ad4d589a1d8131cb95b263/artifacts
+end_time: 1707904967643
+entry_point_name: ''
+experiment_id: '291067862692002196'
+lifecycle_stage: active
+run_id: fd15c37514ad4d589a1d8131cb95b263
+run_name: resilient-donkey-165
+run_uuid: fd15c37514ad4d589a1d8131cb95b263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707904967087
+status: 3
+tags: []
+user_id: Utilisateur

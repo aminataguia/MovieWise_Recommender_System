@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Utilisateur/Documents/GitHub/Brief12/MovieWise_Recommender_System/your_mlflow_uri/342564443274030358/6ac02117f9c34528824c27722ce461ea/artifacts
+end_time: 1707839803230
+entry_point_name: ''
+experiment_id: '342564443274030358'
+lifecycle_stage: active
+run_id: 6ac02117f9c34528824c27722ce461ea
+run_name: learned-snipe-797
+run_uuid: 6ac02117f9c34528824c27722ce461ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707839802300
+status: 3
+tags: []
+user_id: Utilisateur

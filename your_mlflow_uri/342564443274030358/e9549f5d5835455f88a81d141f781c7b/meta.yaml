@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Utilisateur/Documents/GitHub/Brief12/MovieWise_Recommender_System/your_mlflow_uri/342564443274030358/e9549f5d5835455f88a81d141f781c7b/artifacts
+end_time: 1707839644041
+entry_point_name: ''
+experiment_id: '342564443274030358'
+lifecycle_stage: active
+run_id: e9549f5d5835455f88a81d141f781c7b
+run_name: languid-shrike-849
+run_uuid: e9549f5d5835455f88a81d141f781c7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707839643256
+status: 3
+tags: []
+user_id: Utilisateur

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Documents/GitHub/Brief 12/MovieWise_Recommender_System/mlruns/291067862692002196/62d7c03f870e4df38090cfa0ef36c2fb/artifacts
+end_time: 1707840582529
+entry_point_name: ''
+experiment_id: '291067862692002196'
+lifecycle_stage: active
+run_id: 62d7c03f870e4df38090cfa0ef36c2fb
+run_name: silent-horse-725
+run_uuid: 62d7c03f870e4df38090cfa0ef36c2fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707840582022
+status: 3
+tags: []
+user_id: Utilisateur

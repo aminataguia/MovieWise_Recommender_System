@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Documents/GitHub/Brief 12/MovieWise_Recommender_System/mlruns/291067862692002196/5f3d2f6e4e04434c804d3bf513a67d2c/artifacts
+end_time: 1707917932537
+entry_point_name: ''
+experiment_id: '291067862692002196'
+lifecycle_stage: active
+run_id: 5f3d2f6e4e04434c804d3bf513a67d2c
+run_name: clean-carp-196
+run_uuid: 5f3d2f6e4e04434c804d3bf513a67d2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707917927262
+status: 3
+tags: []
+user_id: Utilisateur

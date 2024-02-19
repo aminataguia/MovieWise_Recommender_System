@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Documents/GitHub/Brief 12/MovieWise_Recommender_System/mlruns/291067862692002196/ef0b7a922c6e46a7b454597fa2577d73/artifacts
+end_time: 1707907253676
+entry_point_name: ''
+experiment_id: '291067862692002196'
+lifecycle_stage: active
+run_id: ef0b7a922c6e46a7b454597fa2577d73
+run_name: dazzling-fly-223
+run_uuid: ef0b7a922c6e46a7b454597fa2577d73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707907249447
+status: 3
+tags: []
+user_id: Utilisateur

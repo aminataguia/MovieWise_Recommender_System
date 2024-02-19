@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Documents/GitHub/Brief 12/MovieWise_Recommender_System/mlruns/291067862692002196/3db8fab8c1984d32ac1715d4f5ded271/artifacts
+end_time: 1707839058686
+entry_point_name: ''
+experiment_id: '291067862692002196'
+lifecycle_stage: active
+run_id: 3db8fab8c1984d32ac1715d4f5ded271
+run_name: agreeable-squid-635
+run_uuid: 3db8fab8c1984d32ac1715d4f5ded271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707839058225
+status: 3
+tags: []
+user_id: Utilisateur

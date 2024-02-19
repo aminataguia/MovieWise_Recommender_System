@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Documents/GitHub/Brief 12/MovieWise_Recommender_System/mlruns/291067862692002196/1f78531e3a234013bd0fc969fd4b0e53/artifacts
+end_time: 1707907242885
+entry_point_name: ''
+experiment_id: '291067862692002196'
+lifecycle_stage: active
+run_id: 1f78531e3a234013bd0fc969fd4b0e53
+run_name: invincible-croc-836
+run_uuid: 1f78531e3a234013bd0fc969fd4b0e53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707907240995
+status: 3
+tags: []
+user_id: Utilisateur

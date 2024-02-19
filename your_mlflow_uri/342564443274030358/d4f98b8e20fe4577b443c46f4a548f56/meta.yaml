@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Utilisateur/Documents/GitHub/Brief12/MovieWise_Recommender_System/your_mlflow_uri/342564443274030358/d4f98b8e20fe4577b443c46f4a548f56/artifacts
+end_time: 1707840059313
+entry_point_name: ''
+experiment_id: '342564443274030358'
+lifecycle_stage: active
+run_id: d4f98b8e20fe4577b443c46f4a548f56
+run_name: crawling-flea-258
+run_uuid: d4f98b8e20fe4577b443c46f4a548f56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707840057885
+status: 3
+tags: []
+user_id: Utilisateur

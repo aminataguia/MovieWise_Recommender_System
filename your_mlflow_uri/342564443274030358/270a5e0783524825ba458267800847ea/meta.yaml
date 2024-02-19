@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Utilisateur/Documents/GitHub/Brief12/MovieWise_Recommender_System/your_mlflow_uri/342564443274030358/270a5e0783524825ba458267800847ea/artifacts
+end_time: 1707840070199
+entry_point_name: ''
+experiment_id: '342564443274030358'
+lifecycle_stage: active
+run_id: 270a5e0783524825ba458267800847ea
+run_name: languid-shark-41
+run_uuid: 270a5e0783524825ba458267800847ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707840069746
+status: 3
+tags: []
+user_id: Utilisateur

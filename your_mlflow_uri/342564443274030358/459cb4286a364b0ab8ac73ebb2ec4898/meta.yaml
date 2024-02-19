@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Utilisateur/Documents/GitHub/Brief12/MovieWise_Recommender_System/your_mlflow_uri/342564443274030358/459cb4286a364b0ab8ac73ebb2ec4898/artifacts
+end_time: 1707839814024
+entry_point_name: ''
+experiment_id: '342564443274030358'
+lifecycle_stage: active
+run_id: 459cb4286a364b0ab8ac73ebb2ec4898
+run_name: likeable-rook-882
+run_uuid: 459cb4286a364b0ab8ac73ebb2ec4898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707839813224
+status: 3
+tags: []
+user_id: Utilisateur

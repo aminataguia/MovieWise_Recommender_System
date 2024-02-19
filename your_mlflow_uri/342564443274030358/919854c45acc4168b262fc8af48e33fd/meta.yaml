@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Utilisateur/Documents/GitHub/Brief12/MovieWise_Recommender_System/your_mlflow_uri/342564443274030358/919854c45acc4168b262fc8af48e33fd/artifacts
+end_time: 1707839636386
+entry_point_name: ''
+experiment_id: '342564443274030358'
+lifecycle_stage: active
+run_id: 919854c45acc4168b262fc8af48e33fd
+run_name: receptive-kite-884
+run_uuid: 919854c45acc4168b262fc8af48e33fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707839633258
+status: 3
+tags: []
+user_id: Utilisateur

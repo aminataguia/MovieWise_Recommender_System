@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Documents/GitHub/Brief 12/MovieWise_Recommender_System/mlruns/291067862692002196/9193c2dccae84a96980d4a02cb087a20/artifacts
+end_time: 1707907600312
+entry_point_name: ''
+experiment_id: '291067862692002196'
+lifecycle_stage: active
+run_id: 9193c2dccae84a96980d4a02cb087a20
+run_name: gentle-finch-604
+run_uuid: 9193c2dccae84a96980d4a02cb087a20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707907596467
+status: 3
+tags: []
+user_id: Utilisateur

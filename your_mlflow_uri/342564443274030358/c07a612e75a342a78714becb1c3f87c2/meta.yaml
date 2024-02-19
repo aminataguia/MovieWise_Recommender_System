@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Utilisateur/Documents/GitHub/Brief12/MovieWise_Recommender_System/your_mlflow_uri/342564443274030358/c07a612e75a342a78714becb1c3f87c2/artifacts
+end_time: 1707839613213
+entry_point_name: ''
+experiment_id: '342564443274030358'
+lifecycle_stage: active
+run_id: c07a612e75a342a78714becb1c3f87c2
+run_name: nimble-wasp-319
+run_uuid: c07a612e75a342a78714becb1c3f87c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707839611688
+status: 3
+tags: []
+user_id: Utilisateur

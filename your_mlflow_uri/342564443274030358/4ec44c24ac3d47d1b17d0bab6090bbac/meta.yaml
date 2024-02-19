@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Utilisateur/Documents/GitHub/Brief12/MovieWise_Recommender_System/your_mlflow_uri/342564443274030358/4ec44c24ac3d47d1b17d0bab6090bbac/artifacts
+end_time: 1707840003338
+entry_point_name: ''
+experiment_id: '342564443274030358'
+lifecycle_stage: active
+run_id: 4ec44c24ac3d47d1b17d0bab6090bbac
+run_name: sneaky-yak-370
+run_uuid: 4ec44c24ac3d47d1b17d0bab6090bbac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707840001858
+status: 3
+tags: []
+user_id: Utilisateur

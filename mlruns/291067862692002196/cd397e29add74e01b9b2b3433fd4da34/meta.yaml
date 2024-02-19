@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Documents/GitHub/Brief 12/MovieWise_Recommender_System/mlruns/291067862692002196/cd397e29add74e01b9b2b3433fd4da34/artifacts
+end_time: 1707838915336
+entry_point_name: ''
+experiment_id: '291067862692002196'
+lifecycle_stage: active
+run_id: cd397e29add74e01b9b2b3433fd4da34
+run_name: sedate-crow-874
+run_uuid: cd397e29add74e01b9b2b3433fd4da34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707838914467
+status: 3
+tags: []
+user_id: Utilisateur

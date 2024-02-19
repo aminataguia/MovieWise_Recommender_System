@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Utilisateur/Documents/GitHub/Brief12/MovieWise_Recommender_System/your_mlflow_uri/342564443274030358/e4322d38bd0d47948ac71ce98ca55080/artifacts
+end_time: 1707840060771
+entry_point_name: ''
+experiment_id: '342564443274030358'
+lifecycle_stage: active
+run_id: e4322d38bd0d47948ac71ce98ca55080
+run_name: upset-moth-662
+run_uuid: e4322d38bd0d47948ac71ce98ca55080
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707840059324
+status: 3
+tags: []
+user_id: Utilisateur

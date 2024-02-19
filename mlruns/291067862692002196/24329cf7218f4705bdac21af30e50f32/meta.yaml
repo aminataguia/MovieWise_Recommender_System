@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Documents/GitHub/Brief 12/MovieWise_Recommender_System/mlruns/291067862692002196/24329cf7218f4705bdac21af30e50f32/artifacts
+end_time: 1707907232088
+entry_point_name: ''
+experiment_id: '291067862692002196'
+lifecycle_stage: active
+run_id: 24329cf7218f4705bdac21af30e50f32
+run_name: ambitious-kit-781
+run_uuid: 24329cf7218f4705bdac21af30e50f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707907231655
+status: 3
+tags: []
+user_id: Utilisateur
